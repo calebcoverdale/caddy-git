@@ -1,6 +1,6 @@
 module github.com/calebcoverdale/caddy-git
 
-go 1.17
+go 1.19
 
 require (
 	github.com/caddyserver/caddy/v2 v2.6.3
